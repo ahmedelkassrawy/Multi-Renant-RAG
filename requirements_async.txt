@@ -1,0 +1,4 @@
+# Async dependencies for RAG API
+asyncpg==0.29.0
+sqlalchemy[asyncio]==2.0.23
+aiofiles==23.2.1
