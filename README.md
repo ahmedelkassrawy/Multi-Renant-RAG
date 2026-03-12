@@ -2,7 +2,7 @@
 
 A FastAPI-based multi-tenant Retrieval-Augmented Generation (RAG) system that enables organizations to securely upload, store, and query documents using vector embeddings. Built with organization-level isolation, each tenant's data is completely segregated with user authentication and authorization.
 
-## 🚀 Features
+## Features
 
 - **Multi-Tenant Architecture**: Complete data isolation per organization with user-based access control
 - **JWT Authentication**: Secure token-based authentication system
